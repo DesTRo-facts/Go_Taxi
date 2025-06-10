@@ -7,6 +7,7 @@ Below is the Splash screen for the App
   <tr>
     <td align="center">
       <h2>SPLASH SCREEN</h2>
+      <h3>Below is the Splash screen for the App<h3>
       <img src="IMG-20250610-WA0003.jpg" alt="Splash Screen" width="400px">
     </td>
     <td align="center">
