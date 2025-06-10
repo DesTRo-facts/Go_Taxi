@@ -1,6 +1,8 @@
 # Go_Taxi
 App just like uber and indrive with a personalized touch to it
 
+Below is the Splash screen for the App
+
 <table>
   <tr>
     <td align="center">
