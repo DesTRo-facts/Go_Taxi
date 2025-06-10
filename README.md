@@ -10,7 +10,7 @@ App just like uber and indrive with a personalized touch to it
 
   <div>
     <h2>SPLASH SCREEN 2</h2>
-    <img src="another-image.jpg" alt="Splash Screen 2" width="400px">
+    <img src="IMG-20250610-WA0003.jpg" alt="Splash Screen 2" width="400px">
   </div>
 
 </div>
