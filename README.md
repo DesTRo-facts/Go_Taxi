@@ -131,7 +131,7 @@ App just like uber and indrive with a personalized touch to it
     <td align="center">
       <h2>Driver HomeScreen</h2>
       <h3>Once Driver is Approved he can accept Ride Requests.<h3>
-      <img src="16.Driver Homescreen.jpg" alt="Splash Screen 2" width="400px">
+      <img src="17.Driver HomeScreen 2.jpg" alt="Splash Screen 2" width="400px">
     </td>
   </tr>
 </table>
