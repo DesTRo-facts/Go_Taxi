@@ -60,3 +60,18 @@ App just like uber and indrive with a personalized touch to it
     </td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td align="center">
+      <h2>OTP Screen</h2>
+      <h3>Filles OTP fields.<h3>
+      <img src="8.OTP Screen 2.jpg" alt="Splash Screen" width="400px">
+    </td>
+    <td align="center">
+      <h2>HomeScreen</h2>
+      <h3>Starting Page of the App.<h3>
+      <img src="9.HomePage.jpg" alt="Splash Screen 2" width="400px">
+    </td>
+  </tr>
+</table>
