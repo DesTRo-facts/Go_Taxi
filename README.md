@@ -140,3 +140,9 @@ Below is the Admin Panel That Approves new Drivers and the admin can see which D
 <h2>Admin Login Page.</h2>
 <h3>Login From here to the admin Panel.</h3>
 <img src="AdminPanel1.jpg">
+<br>
+
+<h2>Admin HomeScreen.</h2>
+<h3>See All the Drivers.</h3>
+<img src="AdminPanel2.jpg">
+<br>
