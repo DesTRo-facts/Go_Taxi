@@ -65,13 +65,73 @@ App just like uber and indrive with a personalized touch to it
   <tr>
     <td align="center">
       <h2>OTP Screen</h2>
-      <h3>Filles OTP fields.<h3>
+      <h3>Filled OTP fields.<h3>
       <img src="8.OTP Screen 2.jpg" alt="Splash Screen" width="400px">
     </td>
     <td align="center">
       <h2>HomeScreen</h2>
       <h3>Starting Page of the App.<h3>
       <img src="9.HomePage.jpg" alt="Splash Screen 2" width="400px">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+      <h2>Ride Booking Screen</h2>
+      <h3>Book A Ride from this Screen.<h3>
+      <img src="10.Ride Booking.jpg" alt="Splash Screen" width="400px">
+    </td>
+    <td align="center">
+      <h2>Ride Booking Screen</h2>
+      <h3>Location Entered.<h3>
+      <img src="12.Ride Booking 2.jpg" alt="Splash Screen 2" width="400px">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+      <h2>Ride Booking Screen</h2>
+      <h3>Waiting for Driver once Ride is booked.<h3>
+      <img src="13.Ride Booking 3.jpg" alt="Splash Screen" width="400px">
+    </td>
+    <td align="center">
+      <h2>Drawer</h2>
+      <h3>Drawer On HomeScreen.<h3>
+      <img src="11.Drawer.jpg" alt="Splash Screen 2" width="400px">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+      <h2>Driver Registration Screen</h2>
+      <h3>New Driver Registration.<h3>
+      <img src="14.Driver Registration.jpg" alt="Splash Screen" width="400px">
+    </td>
+    <td align="center">
+      <h2>Driver Registration Screen</h2>
+      <h3>Driver Registration fields filled.<h3>
+      <img src="15.Driver Registration 2.jpg" alt="Splash Screen 2" width="400px">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+      <h2>Driver HomeScreen</h2>
+      <h3>Driver Pending to be Approved.<h3>
+      <img src="16.Driver Homescreen.jpg" alt="Splash Screen" width="400px">
+    </td>
+    <td align="center">
+      <h2>Driver HomeScreen</h2>
+      <h3>Once Driver is Approved he can accept Ride Requests.<h3>
+      <img src="16.Driver Homescreen.jpg" alt="Splash Screen 2" width="400px">
     </td>
   </tr>
 </table>
